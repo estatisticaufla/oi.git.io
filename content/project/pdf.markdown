@@ -49,7 +49,7 @@ pesquisadores nos últimos anos, pois sua ideia geral é a realização de uma a
 
 # An Intuitive Approach to Machine Learning: Boosting, Nearest Neighbors, Random Forests and Support Vector Machines – 6h
 
-**Palestrante**: Andreas Ziegler StatSol - Moenring 2, 23560 Lübeck, Germany; School of Mathematics, Statistics and Computer Science, University of KwaZulu-Natal, Pietermaritzburg, South Africa
+**Palestrante**: Andreas Ziegler - StatSol, Moenring 2, 23560 Lübeck, Germany; School of Mathematics, Statistics and Computer Science, University of KwaZulu-Natal, Pietermaritzburg, South Africa
 Institute of Medical Biometry and Statistics, University of Lübeck, Germany.
 
 <p align="justify"> Big data from high throughput genetic studies or image analyses allow the extraction of new knowledge. Machine learning summarizes the methods for automated knowledge extraction using computers. Recently, statistical properties, such as consistency or asymptotic normality of the estimators have been derived for some learning machines, which provides a better understanding of the machines. Furthermore, several machines have been extended to operate beyond the standard classification problem for dichotomous endpoints. This course provides an introduction to some of the most important machine learning approaches currently used. The focus is the non-technical but intuitive explanation of the algorithms. The use of the machines will be illustrated with R code examples. The simple descriptions in a language familiar to biostatisticians together with an illustration how they can be used in standard statistical software should help to demystify machine learning.<p> 

@@ -10,12 +10,9 @@ header:
   caption: ''
   image: ''
   
-
 ---
 
 # Introdução ao LATEX - 3h 
-
-                              
 
 **Palestrante**: Daniel Furtado Ferreira - UFLA
 
@@ -52,7 +49,34 @@ pesquisadores nos últimos anos, pois sua ideia geral é a realização de uma a
 
 # An Intuitive Approach to Machine Learning: Boosting, Nearest Neighbors, Random Forests and Support Vector Machines – 6h
 
-**Palestrante**: Andreas Ziegler - Institute of Medical Biometry and Statistics at the University of Lübeck, Germany
+**Palestrante**: Andreas Ziegler - StatSol, Moenring 2, 23560 Lübeck, Germany,
+School of Mathematics, Statistics and Computer Science, University of KwaZulu-Natal, Pietermaritzburg, South Africa
+Institute of Medical Biometry and Statistics, University of Lübeck, Germany.
+
+<p align="justify"> Big data from high throughput genetic studies or image analyses allow the extraction of new knowledge. Machine learning summarizes the methods for automated knowledge extraction using computers. Recently, statistical properties, such as consistency or asymptotic normality of the estimators have been derived for some learning machines, which provides a better understanding of the machines. Furthermore, several machines have been extended to operate beyond the standard classification problem for dichotomous endpoints. This course provides an introduction to some of the most important machine learning approaches currently used. The focus is the non-technical but intuitive explanation of the algorithms. The use of the machines will be illustrated with R code examples. The simple descriptions in a language familiar to biostatisticians together with an illustration how they can be used in standard statistical software should help to demystify machine learning.
+
+The aims of the course are to:
+
+1. introduce the key concepts in statistical learning and corresponding R
+software,
+2. discuss the obstacles for the application of statistical learning in practice and
+3. present and illustrate some extensions that are the subject of ongoing
+research.
+
+At the end of the course, participants should:
+
+1. know the fundamental ideas of
+a) boosting (Adaboost, gradient boosting, likelihood boosting),
+b) classification, probability estimation, regression and survival trees,
+c) nearest neighbors (k nearest neighbors, bagged nearest neighbors),
+d) random forests with extensions and
+e) support vector machines,
+
+2. know the basic algorithms of the machine learning approaches and their tuning parameters,
+
+3. know the most important statistical properties of the machine learning approaches.
+
+4. be able to perform basic machine learning analyses using these machines for various endpoints using the free software package R.<p> 
 
 # Modelagem de dados complexos: uma introdução aos GAMLSS – 8h
 
